@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Home",
+    "howItWorks": "How It Works",
+    "callUs": "Call Us"
+  },
+  "hero": {
+    "title": "We Pay Cash for Cars",
+    "subtitle": "Any make, any condition. Same-day pickup.",
+    "description": "Fast quotes, no hidden fees. Licensed and insured.",
+    "callButton": "Call Now",
+    "offerButton": "Get an Offer"
+  },
+  "trust": {
+    "freeTowing": "Free Towing",
+    "sameDayPickup": "Same-Day Pickup",
+    "noTitle": "No Title? We Can Help",
+    "licensed": "Licensed & Insured"
+  },
+  "form": {
+    "title": "Get Your Free Quote",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "year": "Year",
+    "make": "Make",
+    "model": "Model",
+    "city": "City or ZIP Code",
+    "condition": "Condition",
+    "conditionExcellent": "Excellent",
+    "conditionGood": "Good",
+    "conditionFair": "Fair",
+    "conditionPoor": "Poor",
+    "conditionNotRunning": "Not Running",
+    "notes": "Additional Notes (Optional)",
+    "submit": "Get My Offer",
+    "submitting": "Submitting...",
+    "success": "Quote request submitted successfully! We'll contact you soon.",
+    "error": "Failed to submit. Please try again."
+  },
+  "steps": {
+    "title": "How It Works",
+    "step1": "Tell Us About Your Car",
+    "step1Desc": "Fill out our simple form",
+    "step2": "Get an Instant Offer",
+    "step2Desc": "Receive a fair cash offer",
+    "step3": "We Pick Up & Pay",
+    "step3Desc": "Same-day pickup and payment"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "testimonial1": "Quick and easy process. Got cash the same day!",
+    "author1": "J.M., Miami",
+    "testimonial2": "Fair price and professional service. Highly recommend.",
+    "author2": "R.S., Orlando",
+    "testimonial3": "They took my car without a title. Amazing service!",
+    "author3": "L.P., Tampa"
+  },
+  "serviceAreas": {
+    "title": "We Serve All of Florida",
+    "description": "Providing cash for cars services throughout the state",
+    "cities": "Miami, Orlando, Tampa, Jacksonville, Fort Lauderdale, West Palm Beach, and surrounding areas"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "Do I need a title to sell my car?",
+    "a1": "While a title is preferred, we can often help you sell your car without one. Contact us to discuss your specific situation.",
+    "q2": "How quickly can you pick up my car?",
+    "a2": "We offer same-day pickup in most cases. Once you accept our offer, we'll schedule a convenient time for pickup.",
+    "q3": "What condition cars do you buy?",
+    "a3": "We buy cars in any condition - running or not, damaged, old, or with mechanical issues. Every car has value!",
+    "q4": "Is there any cost to me?",
+    "a4": "No! Our service is completely free. We provide free towing and there are no hidden fees or charges.",
+    "q5": "How do I get paid?",
+    "a5": "We pay cash on the spot when we pick up your vehicle. You can also request a cashier's check if you prefer.",
+    "q6": "What areas do you serve?",
+    "a6": "We serve all of Florida including Miami, Orlando, Tampa, Jacksonville, and surrounding areas. Call us to confirm service in your area."
+  },
+  "cta": {
+    "title": "Ready to Sell Your Car?",
+    "description": "Get your free quote today and turn your car into cash",
+    "button": "Get Started Now"
+  },
+  "footer": {
+    "phone": "Call Us",
+    "email": "Email Us",
+    "hours": "Hours: Mon-Sat 8AM-6PM",
+    "legal": "Licensed and insured. Prices may vary by location and vehicle condition.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "howItWorksPage": {
+    "title": "How It Works",
+    "subtitle": "Selling your car for cash is simple and fast",
+    "step1Title": "Step 1: Tell Us About Your Car",
+    "step1Desc": "Fill out our quick online form with details about your vehicle. We need basic information like make, model, year, and condition. The more details you provide, the more accurate your quote will be.",
+    "step2Title": "Step 2: Get Your Cash Offer",
+    "step2Desc": "We'll review your information and provide you with a fair cash offer within minutes. Our offers are competitive and based on current market values. No obligation to accept.",
+    "step3Title": "Step 3: Schedule Free Pickup",
+    "step3Desc": "Once you accept our offer, we'll schedule a convenient time for free pickup. We come to you - your home, office, or anywhere that works for you.",
+    "step4Title": "Step 4: Get Paid Instantly",
+    "step4Desc": "When we pick up your car, we pay you on the spot. Cash in hand, same day. It's that simple!",
+    "benefitsTitle": "Why Choose Us",
+    "benefit1": "No Commission Fees",
+    "benefit1Desc": "Keep 100% of the offer amount",
+    "benefit2": "Free Towing",
+    "benefit2Desc": "We pick up your car at no cost",
+    "benefit3": "Instant Payment",
+    "benefit3Desc": "Get paid when we pick up",
+    "documentsTitle": "What You Need",
+    "documentsDesc": "To complete the sale, you'll typically need:",
+    "doc1": "Valid photo ID (driver's license or state ID)",
+    "doc2": "Vehicle title (we can help if you don't have it)",
+    "doc3": "Keys to the vehicle",
+    "documentsNote": "Requirements may vary by state. Contact us if you have questions about your specific situation.",
+    "ctaTitle": "Ready to Get Started?",
+    "ctaDesc": "Fill out our form or give us a call today"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "howItWorks": "Cómo Funciona",
+    "callUs": "Llámanos"
+  },
+  "hero": {
+    "title": "Pagamos Efectivo por Tu Carro",
+    "subtitle": "Cualquier marca y condición. Retiro el mismo día.",
+    "description": "Cotización rápida, sin cargos ocultos. Licenciados y asegurados.",
+    "callButton": "Llamar Ahora",
+    "offerButton": "Obtener Oferta"
+  },
+  "trust": {
+    "freeTowing": "Remolque Gratis",
+    "sameDayPickup": "Retiro el Mismo Día",
+    "noTitle": "¿Sin Título? Podemos Ayudar",
+    "licensed": "Licenciados y Asegurados"
+  },
+  "form": {
+    "title": "Obtén Tu Cotización Gratis",
+    "name": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "phone": "Número de Teléfono",
+    "year": "Año",
+    "make": "Marca",
+    "model": "Modelo",
+    "city": "Ciudad o Código Postal",
+    "condition": "Condición",
+    "conditionExcellent": "Excelente",
+    "conditionGood": "Buena",
+    "conditionFair": "Regular",
+    "conditionPoor": "Mala",
+    "conditionNotRunning": "No Funciona",
+    "notes": "Notas Adicionales (Opcional)",
+    "submit": "Obtener Mi Oferta",
+    "submitting": "Enviando...",
+    "success": "¡Solicitud enviada con éxito! Te contactaremos pronto.",
+    "error": "Error al enviar. Por favor intenta de nuevo."
+  },
+  "steps": {
+    "title": "Cómo Funciona",
+    "step1": "Cuéntanos Sobre Tu Carro",
+    "step1Desc": "Completa nuestro formulario simple",
+    "step2": "Recibe una Oferta Instantánea",
+    "step2Desc": "Obtén una oferta justa en efectivo",
+    "step3": "Retiramos y Pagamos",
+    "step3Desc": "Retiro y pago el mismo día"
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "testimonial1": "Proceso rápido y fácil. ¡Recibí efectivo el mismo día!",
+    "author1": "J.M., Miami",
+    "testimonial2": "Precio justo y servicio profesional. Muy recomendado.",
+    "author2": "R.S., Orlando",
+    "testimonial3": "Aceptaron mi carro sin título. ¡Servicio increíble!",
+    "author3": "L.P., Tampa"
+  },
+  "serviceAreas": {
+    "title": "Servimos Todo Florida",
+    "description": "Brindamos servicios de efectivo por carros en todo el estado",
+    "cities": "Miami, Orlando, Tampa, Jacksonville, Fort Lauderdale, West Palm Beach y áreas circundantes"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿Necesito el título para vender mi carro?",
+    "a1": "Aunque preferimos el título, a menudo podemos ayudarte a vender tu carro sin él. Contáctanos para discutir tu situación específica.",
+    "q2": "¿Qué tan rápido pueden retirar mi carro?",
+    "a2": "Ofrecemos retiro el mismo día en la mayoría de los casos. Una vez que aceptes nuestra oferta, programaremos un horario conveniente.",
+    "q3": "¿Qué condición de carros compran?",
+    "a3": "Compramos carros en cualquier condición - funcionando o no, dañados, viejos o con problemas mecánicos. ¡Cada carro tiene valor!",
+    "q4": "¿Hay algún costo para mí?",
+    "a4": "¡No! Nuestro servicio es completamente gratis. Proporcionamos remolque gratis y no hay cargos ocultos.",
+    "q5": "¿Cómo recibo el pago?",
+    "a5": "Pagamos en efectivo en el momento cuando retiramos tu vehículo. También puedes solicitar un cheque de caja si prefieres.",
+    "q6": "¿Qué áreas cubren?",
+    "a6": "Servimos todo Florida incluyendo Miami, Orlando, Tampa, Jacksonville y áreas circundantes. Llámanos para confirmar servicio en tu área."
+  },
+  "cta": {
+    "title": "¿Listo Para Vender Tu Carro?",
+    "description": "Obtén tu cotización gratis hoy y convierte tu carro en efectivo",
+    "button": "Comenzar Ahora"
+  },
+  "footer": {
+    "phone": "Llámanos",
+    "email": "Envíanos un Email",
+    "hours": "Horario: Lun-Sáb 8AM-6PM",
+    "legal": "Licenciados y asegurados. Los precios pueden variar según la ubicación y condición del vehículo.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "howItWorksPage": {
+    "title": "Cómo Funciona",
+    "subtitle": "Vender tu carro por efectivo es simple y rápido",
+    "step1Title": "Paso 1: Cuéntanos Sobre Tu Carro",
+    "step1Desc": "Completa nuestro formulario rápido en línea con detalles sobre tu vehículo. Necesitamos información básica como marca, modelo, año y condición. Mientras más detalles proporciones, más precisa será tu cotización.",
+    "step2Title": "Paso 2: Recibe Tu Oferta en Efectivo",
+    "step2Desc": "Revisaremos tu información y te proporcionaremos una oferta justa en efectivo en minutos. Nuestras ofertas son competitivas y basadas en valores actuales del mercado. Sin obligación de aceptar.",
+    "step3Title": "Paso 3: Programa el Retiro Gratis",
+    "step3Desc": "Una vez que aceptes nuestra oferta, programaremos un horario conveniente para el retiro gratis. Vamos a ti - tu casa, oficina o donde te convenga.",
+    "step4Title": "Paso 4: Recibe el Pago Instantáneo",
+    "step4Desc": "Cuando retiramos tu carro, te pagamos en el momento. Efectivo en mano, el mismo día. ¡Así de simple!",
+    "benefitsTitle": "Por Qué Elegirnos",
+    "benefit1": "Sin Comisiones",
+    "benefit1Desc": "Conserva el 100% del monto de la oferta",
+    "benefit2": "Remolque Gratis",
+    "benefit2Desc": "Retiramos tu carro sin costo",
+    "benefit3": "Pago Instantáneo",
+    "benefit3Desc": "Recibe el pago cuando retiramos",
+    "documentsTitle": "Lo Que Necesitas",
+    "documentsDesc": "Para completar la venta, típicamente necesitarás:",
+    "doc1": "Identificación con foto válida (licencia de conducir o ID estatal)",
+    "doc2": "Título del vehículo (podemos ayudar si no lo tienes)",
+    "doc3": "Llaves del vehículo",
+    "documentsNote": "Los requisitos pueden variar por estado. Contáctanos si tienes preguntas sobre tu situación específica.",
+    "ctaTitle": "¿Listo Para Comenzar?",
+    "ctaDesc": "Completa nuestro formulario o llámanos hoy"
+  }
+}
