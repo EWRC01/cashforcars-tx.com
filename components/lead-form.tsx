@@ -93,17 +93,17 @@ export function LeadForm() {
   }
 
   return (
-    <Card>
-      <CardHeader>
-        <CardTitle className="text-2xl">{t("title")}</CardTitle>
+    <Card className="shadow-lg">
+      <CardHeader className="space-y-2">
+        <CardTitle className="text-2xl md:text-3xl">{t("title")}</CardTitle>
         <CardDescription>
           {locale === "es"
             ? "Completa el formulario y te contactaremos pronto"
             : "Fill out the form and we'll contact you soon"}
         </CardDescription>
       </CardHeader>
-      <CardContent>
-        <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
+      <CardContent className="p-6">
+        <form onSubmit={handleSubmit(onSubmit)} className="space-y-5">
           <div>
             <Label htmlFor="name">{t("name")}</Label>
             <Input id="name" {...register("name")} />
@@ -131,12 +131,12 @@ export function LeadForm() {
             </div>
             <div>
               <Label htmlFor="make">{t("make")}</Label>
-              <Input id="make" placeholder="Toyota" {...register("make")} />
+              <Input id="make" placeholder="Ford" {...register("make")} />
               {errors.make && <p className="text-sm text-destructive mt-1">{errors.make.message}</p>}
             </div>
             <div>
               <Label htmlFor="model">{t("model")}</Label>
-              <Input id="model" placeholder="Camry" {...register("model")} />
+              <Input id="model" placeholder="F-150" {...register("model")} />
               {errors.model && <p className="text-sm text-destructive mt-1">{errors.model.message}</p>}
             </div>
           </div>
@@ -144,7 +144,7 @@ export function LeadForm() {
           <div className="grid md:grid-cols-2 gap-4">
             <div>
               <Label htmlFor="city">{t("city")}</Label>
-              <Input id="city" placeholder="Miami, FL" {...register("city")} />
+              <Input id="city" placeholder="Dallas, TX" {...register("city")} />
               {errors.city && <p className="text-sm text-destructive mt-1">{errors.city.message}</p>}
             </div>
             <div>
@@ -170,7 +170,11 @@ export function LeadForm() {
             <Textarea id="notes" rows={3} {...register("notes")} />
           </div>
 
-          <Button type="submit" className="w-full bg-sky-500 hover:bg-sky-600" disabled={isSubmitting}>
+          <Button
+            type="submit"
+            className="w-full bg-sky-500 hover:bg-sky-600 h-12 text-lg font-semibold"
+            disabled={isSubmitting}
+          >
             {isSubmitting ? t("submitting") : t("submit")}
           </Button>
         </form>

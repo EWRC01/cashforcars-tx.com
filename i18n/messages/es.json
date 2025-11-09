@@ -12,9 +12,9 @@
     "offerButton": "Obtener Oferta"
   },
   "trust": {
-    "freeTowing": "Remolque Gratis",
+    "freeTowing": "Remolque Incluido",
     "sameDayPickup": "Retiro el Mismo Día",
-    "noTitle": "¿Sin Título? Podemos Ayudar",
+    "noTitle": "Todos los Carros Aceptados",
     "licensed": "Licenciados y Asegurados"
   },
   "form": {
@@ -63,18 +63,18 @@
   },
   "faq": {
     "title": "Preguntas Frecuentes",
-    "q1": "¿Compran carros sin título?",
-    "a1": "¡Sí! Compramos carros sin título. Podemos ayudarte en el proceso de obtener un título duplicado, o en muchos casos, podemos comprar tu vehículo sin uno. Contáctanos para discutir tu situación específica.",
-    "q2": "¿Qué pasa si perdí el título de mi carro?",
-    "a2": "¡No hay problema! Podemos guiarte para obtener un título duplicado del DMV de Texas, o podemos comprar tu vehículo sin él dependiendo de las circunstancias.",
-    "q3": "¿Qué tan rápido pueden retirar mi carro?",
-    "a3": "Ofrecemos retiro el mismo día en la mayoría de los casos en todo el norte de Texas. Una vez que aceptes nuestra oferta, programaremos un horario conveniente.",
-    "q4": "¿Qué condición de carros compran?",
-    "a4": "Compramos carros en cualquier condición - funcionando o no, dañados, viejos o con problemas mecánicos. ¡Cada carro tiene valor!",
-    "q5": "¿Hay algún costo para mí?",
-    "a5": "¡No! Nuestro servicio es completamente gratis. Proporcionamos remolque gratis y no hay cargos ocultos.",
-    "q6": "¿Cómo recibo el pago?",
-    "a6": "Pagamos en efectivo en el momento cuando retiramos tu vehículo. También puedes solicitar un cheque de caja si prefieres."
+    "q1": "¿Qué tan rápido pueden retirar mi carro?",
+    "a1": "Ofrecemos retiro el mismo día en la mayoría de los casos en todo el norte de Texas. Una vez que aceptes nuestra oferta, programaremos un horario conveniente.",
+    "q2": "¿Qué condición de carros compran?",
+    "a2": "Compramos carros en cualquier condición - funcionando o no, dañados, viejos o con problemas mecánicos. ¡Cada carro tiene valor!",
+    "q3": "¿Hay algún costo para mí?",
+    "a3": "¡No! Nuestro servicio es completamente gratis. Proporcionamos remolque incluido sin cargo, y no hay costos ocultos.",
+    "q4": "¿Cómo recibo el pago?",
+    "a4": "Pagamos en efectivo en el momento cuando retiramos tu vehículo. También puedes solicitar un cheque de caja si prefieres.",
+    "q5": "¿Qué áreas cubren?",
+    "a5": "Servimos todo el norte de Texas incluyendo el Condado Hunt, Condado Lamar, Condado Rains, Condado Wood, Condado Collin, Condado Rockwall, Condado Dallas, y Condado Hopkins.",
+    "q6": "¿Necesito una cita?",
+    "a6": "¡No necesariamente! Aunque recomendamos programar para tu conveniencia, a menudo podemos acomodar solicitudes del mismo día. Llámanos al 214-607-3315 para hablar."
   },
   "cta": {
     "title": "¿Listo Para Vender Tu Carro?",
