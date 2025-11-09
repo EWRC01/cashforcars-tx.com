@@ -17,14 +17,19 @@ export function Footer() {
             <div className="space-y-3 text-sm">
               <div className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-sky-500" />
-                <a href="tel:+15551234567" className="hover:text-sky-500 transition-colors">
-                  +1-555-123-4567
-                </a>
+                <div className="flex flex-col gap-1">
+                  <a href="tel:+12146073315" className="hover:text-sky-500 transition-colors">
+                    214-607-3315
+                  </a>
+                  <a href="tel:+12142896194" className="hover:text-sky-500 transition-colors">
+                    214-289-6194
+                  </a>
+                </div>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-sky-500" />
-                <a href="mailto:info@cashforcars.example.com" className="hover:text-sky-500 transition-colors">
-                  info@cashforcars.example.com
+                <a href="mailto:info@cashforcars-tx.com" className="hover:text-sky-500 transition-colors">
+                  info@cashforcars-tx.com
                 </a>
               </div>
               <p className="text-muted-foreground">{t("hours")}</p>

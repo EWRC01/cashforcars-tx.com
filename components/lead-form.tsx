@@ -104,19 +104,19 @@ export function LeadForm() {
       </CardHeader>
       <CardContent className="p-6">
         <form onSubmit={handleSubmit(onSubmit)} className="space-y-5">
-          <div>
+          <div className="space-y-2">
             <Label htmlFor="name">{t("name")}</Label>
             <Input id="name" {...register("name")} />
             {errors.name && <p className="text-sm text-destructive mt-1">{errors.name.message}</p>}
           </div>
 
           <div className="grid md:grid-cols-2 gap-4">
-            <div>
+            <div className="space-y-2">
               <Label htmlFor="email">{t("email")}</Label>
               <Input id="email" type="email" {...register("email")} />
               {errors.email && <p className="text-sm text-destructive mt-1">{errors.email.message}</p>}
             </div>
-            <div>
+            <div className="space-y-2">
               <Label htmlFor="phone">{t("phone")}</Label>
               <Input id="phone" type="tel" {...register("phone")} />
               {errors.phone && <p className="text-sm text-destructive mt-1">{errors.phone.message}</p>}
@@ -124,17 +124,17 @@ export function LeadForm() {
           </div>
 
           <div className="grid md:grid-cols-3 gap-4">
-            <div>
+            <div className="space-y-2">
               <Label htmlFor="year">{t("year")}</Label>
               <Input id="year" placeholder="2020" {...register("year")} />
               {errors.year && <p className="text-sm text-destructive mt-1">{errors.year.message}</p>}
             </div>
-            <div>
+            <div className="space-y-2">
               <Label htmlFor="make">{t("make")}</Label>
               <Input id="make" placeholder="Ford" {...register("make")} />
               {errors.make && <p className="text-sm text-destructive mt-1">{errors.make.message}</p>}
             </div>
-            <div>
+            <div className="space-y-2">
               <Label htmlFor="model">{t("model")}</Label>
               <Input id="model" placeholder="F-150" {...register("model")} />
               {errors.model && <p className="text-sm text-destructive mt-1">{errors.model.message}</p>}
@@ -142,12 +142,12 @@ export function LeadForm() {
           </div>
 
           <div className="grid md:grid-cols-2 gap-4">
-            <div>
+            <div className="space-y-2">
               <Label htmlFor="city">{t("city")}</Label>
               <Input id="city" placeholder="Dallas, TX" {...register("city")} />
               {errors.city && <p className="text-sm text-destructive mt-1">{errors.city.message}</p>}
             </div>
-            <div>
+            <div className="space-y-2">
               <Label htmlFor="condition">{t("condition")}</Label>
               <Select onValueChange={(value) => setValue("condition", value)} value={condition}>
                 <SelectTrigger id="condition">
@@ -165,7 +165,7 @@ export function LeadForm() {
             </div>
           </div>
 
-          <div>
+          <div className="space-y-2">
             <Label htmlFor="notes">{t("notes")}</Label>
             <Textarea id="notes" rows={3} {...register("notes")} />
           </div>
