@@ -17,21 +17,63 @@ export default async function HomePage({
 }) {
   const { locale } = await params
 
-  // JSON-LD for LocalBusiness
   const businessSchema = {
     "@context": "https://schema.org",
     "@type": "AutoDealer",
     "@id": "https://cashforcars.example.com",
     name: "Cash for Cars",
-    telephone: "+1-555-123-4567",
-    areaServed: {
-      "@type": "Country",
-      name: "United States",
-    },
+    telephone: "+1-214-607-3315",
+    areaServed: [
+      {
+        "@type": "City",
+        name: "Dallas",
+        addressRegion: "TX",
+      },
+      {
+        "@type": "AdministrativeArea",
+        name: "Hunt County",
+        addressRegion: "TX",
+      },
+      {
+        "@type": "AdministrativeArea",
+        name: "Lamar County",
+        addressRegion: "TX",
+      },
+      {
+        "@type": "AdministrativeArea",
+        name: "Rains County",
+        addressRegion: "TX",
+      },
+      {
+        "@type": "AdministrativeArea",
+        name: "Wood County",
+        addressRegion: "TX",
+      },
+      {
+        "@type": "AdministrativeArea",
+        name: "Collin County",
+        addressRegion: "TX",
+      },
+      {
+        "@type": "AdministrativeArea",
+        name: "Rockwall County",
+        addressRegion: "TX",
+      },
+      {
+        "@type": "AdministrativeArea",
+        name: "Dallas County",
+        addressRegion: "TX",
+      },
+      {
+        "@type": "AdministrativeArea",
+        name: "Hopkins County",
+        addressRegion: "TX",
+      },
+    ],
     knowsLanguage: ["en", "es"],
     address: {
       "@type": "PostalAddress",
-      addressRegion: "FL",
+      addressRegion: "TX",
       addressCountry: "US",
     },
   }
@@ -44,7 +86,7 @@ export default async function HomePage({
         <Hero />
         <TrustBadges />
         <section id="quote-form" className="py-16 bg-muted/30">
-          <div className="container max-w-2xl">
+          <div className="container max-w-2xl mx-auto">
             <LeadForm />
           </div>
         </section>

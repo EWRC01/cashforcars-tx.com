@@ -13,7 +13,7 @@ export function ServiceAreas() {
           <MapPin className="w-12 h-12 mx-auto mb-4 text-sky-500" />
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-balance">{t("title")}</h2>
           <p className="text-lg text-muted-foreground mb-6">{t("description")}</p>
-          <p className="text-base">{t("cities")}</p>
+          <p className="text-base">{t("counties")}</p>
         </div>
       </div>
     </section>

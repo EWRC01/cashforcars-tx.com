@@ -23,7 +23,7 @@ export function Hero() {
           <p className="mx-auto mt-3 max-w-2xl text-lg text-muted-foreground leading-relaxed">{t("description")}</p>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Button size="lg" className="w-full sm:w-auto bg-sky-500 hover:bg-sky-600" asChild>
-              <a href="tel:+15551234567">
+              <a href="tel:+12146073315">
                 <Phone className="mr-2 h-5 w-5" />
                 {t("callButton")}
               </a>

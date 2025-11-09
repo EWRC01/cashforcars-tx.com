@@ -50,31 +50,31 @@
   "testimonials": {
     "title": "Lo Que Dicen Nuestros Clientes",
     "testimonial1": "Proceso rápido y fácil. ¡Recibí efectivo el mismo día!",
-    "author1": "J.M., Miami",
+    "author1": "J.M., Dallas, TX",
     "testimonial2": "Precio justo y servicio profesional. Muy recomendado.",
-    "author2": "R.S., Orlando",
+    "author2": "R.S., Plano, TX",
     "testimonial3": "Aceptaron mi carro sin título. ¡Servicio increíble!",
-    "author3": "L.P., Tampa"
+    "author3": "L.P., McKinney, TX"
   },
   "serviceAreas": {
-    "title": "Servimos Todo Florida",
-    "description": "Brindamos servicios de efectivo por carros en todo el estado",
-    "cities": "Miami, Orlando, Tampa, Jacksonville, Fort Lauderdale, West Palm Beach y áreas circundantes"
+    "title": "Servimos Todo el Norte de Texas",
+    "description": "Brindamos servicios de efectivo por carros en toda la región",
+    "counties": "Condado Hunt, Condado Lamar, Condado Rains, Condado Wood, Condado Collin, Condado Rockwall, Condado Dallas, y Condado Hopkins"
   },
   "faq": {
     "title": "Preguntas Frecuentes",
-    "q1": "¿Necesito el título para vender mi carro?",
-    "a1": "Aunque preferimos el título, a menudo podemos ayudarte a vender tu carro sin él. Contáctanos para discutir tu situación específica.",
-    "q2": "¿Qué tan rápido pueden retirar mi carro?",
-    "a2": "Ofrecemos retiro el mismo día en la mayoría de los casos. Una vez que aceptes nuestra oferta, programaremos un horario conveniente.",
-    "q3": "¿Qué condición de carros compran?",
-    "a3": "Compramos carros en cualquier condición - funcionando o no, dañados, viejos o con problemas mecánicos. ¡Cada carro tiene valor!",
-    "q4": "¿Hay algún costo para mí?",
-    "a4": "¡No! Nuestro servicio es completamente gratis. Proporcionamos remolque gratis y no hay cargos ocultos.",
-    "q5": "¿Cómo recibo el pago?",
-    "a5": "Pagamos en efectivo en el momento cuando retiramos tu vehículo. También puedes solicitar un cheque de caja si prefieres.",
-    "q6": "¿Qué áreas cubren?",
-    "a6": "Servimos todo Florida incluyendo Miami, Orlando, Tampa, Jacksonville y áreas circundantes. Llámanos para confirmar servicio en tu área."
+    "q1": "¿Compran carros sin título?",
+    "a1": "¡Sí! Compramos carros sin título. Podemos ayudarte en el proceso de obtener un título duplicado, o en muchos casos, podemos comprar tu vehículo sin uno. Contáctanos para discutir tu situación específica.",
+    "q2": "¿Qué pasa si perdí el título de mi carro?",
+    "a2": "¡No hay problema! Podemos guiarte para obtener un título duplicado del DMV de Texas, o podemos comprar tu vehículo sin él dependiendo de las circunstancias.",
+    "q3": "¿Qué tan rápido pueden retirar mi carro?",
+    "a3": "Ofrecemos retiro el mismo día en la mayoría de los casos en todo el norte de Texas. Una vez que aceptes nuestra oferta, programaremos un horario conveniente.",
+    "q4": "¿Qué condición de carros compran?",
+    "a4": "Compramos carros en cualquier condición - funcionando o no, dañados, viejos o con problemas mecánicos. ¡Cada carro tiene valor!",
+    "q5": "¿Hay algún costo para mí?",
+    "a5": "¡No! Nuestro servicio es completamente gratis. Proporcionamos remolque gratis y no hay cargos ocultos.",
+    "q6": "¿Cómo recibo el pago?",
+    "a6": "Pagamos en efectivo en el momento cuando retiramos tu vehículo. También puedes solicitar un cheque de caja si prefieres."
   },
   "cta": {
     "title": "¿Listo Para Vender Tu Carro?",

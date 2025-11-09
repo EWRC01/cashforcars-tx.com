@@ -50,31 +50,31 @@
   "testimonials": {
     "title": "What Our Customers Say",
     "testimonial1": "Quick and easy process. Got cash the same day!",
-    "author1": "J.M., Miami",
+    "author1": "J.M., Dallas, TX",
     "testimonial2": "Fair price and professional service. Highly recommend.",
-    "author2": "R.S., Orlando",
+    "author2": "R.S., Plano, TX",
     "testimonial3": "They took my car without a title. Amazing service!",
-    "author3": "L.P., Tampa"
+    "author3": "L.P., McKinney, TX"
   },
   "serviceAreas": {
-    "title": "We Serve All of Florida",
-    "description": "Providing cash for cars services throughout the state",
-    "cities": "Miami, Orlando, Tampa, Jacksonville, Fort Lauderdale, West Palm Beach, and surrounding areas"
+    "title": "We Serve All of North Texas",
+    "description": "Providing cash for cars services throughout the region",
+    "counties": "Hunt County, Lamar County, Rains County, Wood County, Collin County, Rockwall County, Dallas County, and Hopkins County"
   },
   "faq": {
     "title": "Frequently Asked Questions",
-    "q1": "Do I need a title to sell my car?",
-    "a1": "While a title is preferred, we can often help you sell your car without one. Contact us to discuss your specific situation.",
-    "q2": "How quickly can you pick up my car?",
-    "a2": "We offer same-day pickup in most cases. Once you accept our offer, we'll schedule a convenient time for pickup.",
-    "q3": "What condition cars do you buy?",
-    "a3": "We buy cars in any condition - running or not, damaged, old, or with mechanical issues. Every car has value!",
-    "q4": "Is there any cost to me?",
-    "a4": "No! Our service is completely free. We provide free towing and there are no hidden fees or charges.",
-    "q5": "How do I get paid?",
-    "a5": "We pay cash on the spot when we pick up your vehicle. You can also request a cashier's check if you prefer.",
-    "q6": "What areas do you serve?",
-    "a6": "We serve all of Florida including Miami, Orlando, Tampa, Jacksonville, and surrounding areas. Call us to confirm service in your area."
+    "q1": "Do you buy cars without a title?",
+    "a1": "Yes! We buy cars without titles. We can help you through the process of getting a duplicate title, or in many cases, we can purchase your vehicle without one. Contact us to discuss your specific situation.",
+    "q2": "What if I lost my car title?",
+    "a2": "No problem! We can guide you through obtaining a duplicate title from the Texas DMV, or we may be able to purchase your vehicle without it depending on the circumstances.",
+    "q3": "How quickly can you pick up my car?",
+    "a3": "We offer same-day pickup in most cases throughout North Texas. Once you accept our offer, we'll schedule a convenient time for pickup.",
+    "q4": "What condition cars do you buy?",
+    "a4": "We buy cars in any condition - running or not, damaged, old, or with mechanical issues. Every car has value!",
+    "q5": "Is there any cost to me?",
+    "a5": "No! Our service is completely free. We provide free towing and there are no hidden fees or charges.",
+    "q6": "How do I get paid?",
+    "a6": "We pay cash on the spot when we pick up your vehicle. You can also request a cashier's check if you prefer."
   },
   "cta": {
     "title": "Ready to Sell Your Car?",
