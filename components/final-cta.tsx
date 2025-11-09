@@ -15,9 +15,9 @@ export function FinalCTA() {
           <p className="text-lg text-muted-foreground mb-8 text-balance">{t("description")}</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-sky-500 hover:bg-sky-600" asChild>
-              <a href="tel:+15551234567">
+              <a href="tel:+12146073315">
                 <Phone className="mr-2 h-5 w-5" />
-                +1-555-123-4567
+                214-607-3315
               </a>
             </Button>
             <Button size="lg" variant="outline" asChild>
